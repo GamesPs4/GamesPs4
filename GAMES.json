@@ -1,5 +1,206 @@
 {
   "DATA": {
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/cotZsdMTE64smueDCde-[SuperPSX]-CoffeeTalk_CUSA18112_v1.00_[6.72]-PS4.pkg": {
+      "title_id": "CUSA18112",
+      "region": "EUR",
+      "name": "Coffee Talk",
+      "size": 292356096,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/colvWlhrxRttAl9Yode-[SuperPSX]-Coffee.Talk.Episode.2_CUSA32951_v1.00_[9.00]-PS4.pkg": {
+      "title_id": "CUSA32951",
+      "region": "EUR",
+      "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
+      "size": 442892288,
+      "version": "1.0",
+      "release": null,
+      "min_fw": null,
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/1-14.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coGp31eA3eM8OxujIde-[SuperPSX]-Metro.Redux-CUSA00683-USA-Game-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00683",
+      "region": "USA",
+      "name": "Metro Redux",
+      "size": 12582912000,
+      "version": "1.01",
+      "release": "02-14-2023",
+      "min_fw": "5.05",
+      "cover_url": "https://4.bp.blogspot.com/-PXFxsT4w_0w/Wowjd7IR0jI/AAAAAAAALTc/uAtDXtBRsrIMj6Oy2LONfHw52YFbnQAKwCLcBGAs/s1600/26.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coAykSo0hivzGyxZhde-[SPSX]-Red.Dead.Redemption.2_CUSA08519_v1.00_[6.72]_OPOISSO893.pkg": {
+      "title_id": "CUSA08519",
+      "region": "EUR",
+      "name": "Red Dead Redemption 2",
+      "size": 85290778624,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "6.72",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co1P9sNOo6g8xVuUfde-[SPSX]-Grand.Theft.Auto.V-CUSA00419-USA-Game-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 44755845120,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cogQwvod1Eloi9AUIde-EP0002-CUSA34029_00-COREGAME00000001-A0100-V0100-Fugazi-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6",
+      "size": 26542080,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "9.00",
+      "cover_url": "https://i.ibb.co/dJ4fL2q8/069caf897c050192300384a8ef46b805.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cor1qh7XJdPErrDuJde-[SuperPSX]-EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA46399",
+      "region": "EUR",
+      "name": "EA Sports FC 25",
+      "size": 44870664192,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co6YOl7IRAr8Wy9iPde-[SPSX]-Tomb.Raider.Definitive.Edition-CUSA00107-USA-Game-(5.50+)-PS4.pkg": {
+      "title_id": "CUSA00107",
+      "region": "USA",
+      "name": "Tomb Raider Definitive Edition",
+      "size": 15441985536,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cojF3L3sqGYmTX1kQde-[SuperPSX]-Shadow.of.the.Tomb.Raider_CUSA10872-v2.01_FullGame_[6.72]-PS4.pkg": {
+      "title_id": "CUSA10872",
+      "region": "EUR",
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "size": 32811319296,
+      "version": "2.01",
+      "release": "02-14-2025",
+      "min_fw": "7.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Shadow-of-the-Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/copXdbjL7AzkUxlUmde-[SuperPSX]-Stick.Fight.The.Game_CUSA11826_v1.00_[5.05]-PS4.pkg": {
+      "title_id": "CUSA11826",
+      "region": "EUR",
+      "name": "Stick Fight The Game",
+      "size": 151453696,
+      "version": "1.0",
+      "release": "01-01-2021",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2025/02/2-1.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/co53KXrwtqfEfIdiPde-[SPSX]-Resident.Evil.Origins.Collection-CUSA03178-USA-Game-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA03178",
+      "region": " USA",
+      "name": "Resident Evil Origins Collection",
+      "size": 25800867840,
+      "version": "1.00",
+      "release": "1-1-2016",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-AIuj5OJV9OM/WtQm1vs7BcI/AAAAAAAAF64/7gawq_Xg7AIMxZJH-3J4k27PKV7ips9dgCLcBGAs/s1600/45.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coyFQAphc72UtCheTde-[SPSX]-Resident.Evil.4.Remake-CUSA33388-EUR-Game-(9.00-11.00)-PS4.pkg": {
+      "title_id": "CUSA33388",
+      "region": " EUR",
+      "name": "Resident Evil 4 Remake Gold Edition",
+      "size": 26151813120,
+      "version": "1.00",
+      "release": "1-1-2023",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-mO89dvXdmhg/ZB0njRKLJkI/AAAAAAAAAxs/WN6TF8M7rck7YCrKnvi8hoC9blu3Jea_QCNcBGAsYHQ/s0/4.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cogwyR5VbKlTRKXside-[SuperPSX]-RESIDENT.EVIL.7.biohazard_CUSA03842_v1.00_[5.05]-PS4.pkg": {
+      "title_id": "CUSA03842",
+      "region": " EUR",
+      "name": "Resident Evil 7 Biohazard Gold Edition",
+      "size": 20843921408,
+      "version": "1.00",
+      "release": "1-1-2017",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-ustafhtKnyg/Wxpma-d9DVI/AAAAAAAAMYg/XGX4vrH_QuM0aBQkpdybFWOMcH74ZEHKQCLcBGAs/s1600/1.jpg" 
+    },
+"https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cothT9jvQVpN18mnIde-[SuperPSX.com]-God.of.War.Ragnarok_CUSA34386_v1.00_[9.00]-PS4.pkg": {
+      "title_id": "CUSA34386",
+      "region": "EUR",
+      "name": "God of War Ragnarök",
+      "size": 90624753664,
+      "version": "1.00",
+      "release": "1-1-2022",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-zFl8BVScuhU/Y2xHbSowYCI/AAAAAAAAK3s/5cbtPfoUO9gAoL1u0f8veYL1GIpAUE-RQCNcBGAsYHQ/s0/1.jpg"
+    },
+"https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coaT8X2EqMVJFUS0Ude-[SuperPSX]-God.of.War_CUSA07410_v1.00_[5.05+]-PS4_OPOISSO893.pkg": {
+      "title_id": "CUSA07410",
+      "region": "EUR",
+      "name": "God of War 2018",
+      "size": 38701432832,
+      "version": "1.00",
+      "release": "1-1-2018",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-bIeiq3rGTwQ/Wwz5qfXRsMI/AAAAAAAALCM/_I2M4KW91NAETR9wUC24I0_C9MeQydc7QCLcBGAs/s1600/13.jpg"
+     },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cogz4RkjmzavJ3TOwde-[SPSX]-Grand.Theft.Auto.V-CUSA00411-EUR-Game-(5.05+)-PS4_OPOISSO893.pkg": {
+      "title_id": "CUSA00411",
+      "region": "EUR",
+      "name": "Grand Theft Auto V",
+      "size": 44755910656,
+      "version": "1.00",
+      "release": "2-3-2014",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+     },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coO6wn5fX1eOBenszde-[SuperPSX]-Streets.of.Rage.4_CUSA16237_v1.00_[7.02-PS4.pkg": {
+      "title_id": "CUSA16237",
+      "region": " USA",
+      "name": "Street of Rage 4",
+      "size": 5295702016,
+      "version": "1.00",
+      "release": "1-1-2020",
+      "min_fw": "7.02",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/31.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coVFmVFrTXPa9WsaSde-[SuperPSX]-The.Last.of.Us.Part.2-CUSA10249-EUR-Game_v1.00-PS4.pkg": {
+      "title_id": "CUSA10249",
+      "region": "EUR",
+      "name": "The Last of us Part II",
+      "size": 92943417344,
+      "version": "1.00",
+      "release": "1-1-2020",
+      "min_fw": "6.72",
+      "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
+    },
+    "https://download.akirabox.com/uploads/users/XLJlGnnlG15w/coPe5ASfWtdq5bXuude-God%20of%20War%202005%20Arabic%20Fixed.pkg": {
+      "title_id": "CUSA01623",
+      "region": "USA",
+      "name": "God of War 3 Remastered",
+      "size": 39488061440,
+      "version": "1.01",
+      "release": "2-3-2015",
+      "min_fw": "5.05",
+      "cover_url": "https://assetsio.gnwcdn.com/co3koh.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co2eLcTLwFkjGgi9nde-[SPSX]-Jujutsu.Kaisen.Cursed.Clash.U.E-CUSA35844-EUR-Game-(9.00+)PS4.pkg": {
+      "title_id": "CUSA35844",
+      "region": "EUR",
+      "name": "Jujutsu Kaisen Cursed Clash Ultimate Edition",
+      "size": 11987386368,
+      "version": "1.00",
+      "release": "1-1-2024",
+      "min_fw": "9.00",
+      "cover_url": "https://1.bp.blogspot.com/-n1bv9o6BFT4/Zb5jh5_ZgAI/AAAAAAAAFMQ/SKF74MDRxwcZFI2OCHHbMvvVZ3vKNV8aQCNcBGAsYHQ/s0/1.jpg"
+      
+    "DATA": {
     "https://www.mediafire.com/file/ulb1gxv03s6dr8p/GAMESPS4I.pkg": {
       "title_id": "CUSA40449",
       "region": "USA",
