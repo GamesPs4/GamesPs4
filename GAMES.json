@@ -1,3 +1,4 @@
+
 {
   "DATA": {
     "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/cotZsdMTE64smueDCde-[SuperPSX]-CoffeeTalk_CUSA18112_v1.00_[6.72]-PS4.pkg": {
@@ -9,6 +10,46 @@
       "release": "02-13-2025",
       "min_fw": null,
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
+    },
+    "https://www.mediafire.com/file/ulb1gxv03s6dr8p/GAMESPS4I.pkg": {
+      "title_id": "CUSA40449",
+      "region": "USA",
+      "name": "GYLT GAME",
+      "size": 6048000000,
+      "version": "1.0",
+      "release": "11-15-2023",
+      "min_fw": "9",
+      "cover_url": "https://i.postimg.cc/300yVxVS/GYLT-PS4-2-D-Provisional-Packshot-zoom.png"
+    },
+    "https://download854.mediafire.com/mlhxuu6qrzfgngjeDCu9-ipkekw4rZzcIbyeh7VgG9SfnKiMFsh2Q8RX2ooYqEWEtzs2iokBEyv9IydaD2sHuASzd01S_7Q2IIDdZk7Ta_oWJ3xEu_J7tvStIQ7r3L8KGBcPjUSVubBGL6f2ixCtF28dASnFol6pK2odyfaGG6_YyQ/c07gslk5fsj5659/EP6930-CUSA32070_00-APP0990000000022-A0100-V0100-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA00411",
+      "region": "EUR",
+      "name": "Grand Theft Auto V",
+      "size": 1073741824,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": "9.0",
+      "cover_url": "https://i.postimg.cc/Jzq1hqxy/21.jpg"
+    },
+    "https://download1510.mediafire.com/naxhq8p8fprg9Q_PpOZJEo4E1Xxy4TxYZySZHpjTKDi-wKyoMErmtb5WOhJSGJ3PRuYSLKr55UaSsexKR20avqwBRVTbxOgVD3yT80ivMCAQPFUZAL9TYT81_VAVeeLauj9gLb1kM4JtskP-ofEtlygaEGdF3-gP9hn2Hf5xzUuqIQ/f77zgebzlss78nh/EP7079-CUSA29626_00-3835502981757459-A0100-V0100-NoTrophy-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA46399",
+      "region": "EUR",
+      "name": "EA SPORTS FC 25",
+      "size": 1073741824,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": "9.0",
+      "cover_url": "https://i.postimg.cc/s2qbfQkQ/1-21.jpg"
+    },
+    "new-content-1739655995463": {
+      "title_id": "CUSA44067",
+      "region": "USA",
+      "name": "GamesPs4I",
+      "size": 4884425,
+      "version": "1.0",
+      "release": "02-16-2025",
+      "min_fw": "9",
+      "cover_url": "https://i.postimg.cc/grbW1KQz/2-3.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/colvWlhrxRttAl9Yode-[SuperPSX]-Coffee.Talk.Episode.2_CUSA32951_v1.00_[9.00]-PS4.pkg": {
       "title_id": "CUSA32951",
